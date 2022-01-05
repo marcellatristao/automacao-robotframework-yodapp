@@ -1,1 +1,1 @@
-# automacao-robotframework-yodapp
+# Automação de testes utilizando Robot Framework
